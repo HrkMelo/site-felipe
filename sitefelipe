@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologia e Robótica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e9ecef;
+        }
+        header {
+            background: #343a40;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            background: white;
+            margin: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #343a40;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tecnologia e Robótica</h1>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#robotica">Robótica</a>
+    <a href="#tecnologia">Tecnologia</a>
+    <a href="#contato">Contato</a>
+</nav>
+
+<section id="sobre">
+    <h2>Sobre</h2>
+    <p>Bem-vindo ao nosso site dedicado a explorar o fascinante mundo da tecnologia e da robótica. Aqui, você encontrará informações sobre inovações tecnológicas e os últimos avanços em robótica.</p>
+</section>
+
+<section id="robotica">
+    <h2>Robótica</h2>
+    <p>A robótica é uma área em rápida evolução que combina engenharia, ciência da computação e tecnologia para criar máquinas inteligentes. Desde robôs industriais até assistentes pessoais, a robótica está transformando a forma como vivemos e trabalhamos.</p>
+</section>
+
+<section id="tecnologia">
+    <h2>Tecnologia</h2>
+    <p>A tecnologia está presente em quase todos os aspectos da nossa vida. Desde smartphones até inteligência artificial, a tecnologia continua a evoluir e impactar nossas vidas de maneiras incríveis.</p>
+</section>
+
+<section id="contato">
+    <h2>Contato</h2>
+    <p>Para mais informações, entre em contato conosco pelo e-mail: contato@tecnologiaerobotica.com</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Tecnologia e Robótica</p>
+</footer>
+
+</body>
+</html>
